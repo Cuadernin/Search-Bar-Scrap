@@ -1,5 +1,5 @@
 # Search Bar Scrap
-El siguiente código realiza webscrapping de forma másica a la **primera página** de Google. Lo anterior, tomando como base un dataframe de Python. 
+El siguiente código realiza webscrapping de forma masiva a la **primera página** de Google (título y url). Lo anterior, tomando como base un dataframe de Python. 
 
 ## Ejemplo de uso 📑
 ```
